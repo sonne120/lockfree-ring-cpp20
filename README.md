@@ -1,3 +1,10 @@
+![C++20](https://img.shields.io/badge/C%2B%2B-20-00599C)
+![Lock-free](https://img.shields.io/badge/lock--free-SPSC%20%7C%20MPMC-brightgreen)
+![Language](https://img.shields.io/github/languages/top/sonne120/lockfree-ring-cpp20)
+![Stars](https://img.shields.io/github/stars/sonne120/lockfree-ring-cpp20)
+![Forks](https://img.shields.io/github/forks/sonne120/lockfree-ring-cpp20)
+![Last commit](https://img.shields.io/github/last-commit/sonne120/lockfree-ring-cpp20)
+
 # lockfree-ring-cpp20
 
 Header-only ring buffers in C++20: plain queues and the LMAX Disruptor.
